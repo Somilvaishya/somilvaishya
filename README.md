@@ -18,7 +18,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at
-[https://somilvaishya.github.io/NewPortfolio/](https://somilvaishya.github.io/NewPortfolio/)
+[https://somilvaishya.github.io/NewPortfolio/](https://portfolio-website-delta-three-90.vercel.app/)
 - 💬 Ask me about **MERN,JavaScript,Web Designing** - 📫 How to reach me
 **somilvaishya78@gmail.com** - 📄 Know about my experiences
 [https://drive.google.com/file/d/1qjQSad4Z-xxAkMLYCHM_3bdNJ1pPtJm9/view?usp=sharing](https://drive.google.com/file/d/1qjQSad4Z-xxAkMLYCHM_3bdNJ1pPtJm9/view?usp=sharing)
