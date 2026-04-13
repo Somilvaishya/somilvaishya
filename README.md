@@ -17,11 +17,10 @@
   />
 </p>
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects and experiences are available at
 [https://somilvaishya.github.io/NewPortfolio/](https://portfolio-website-delta-three-90.vercel.app/)
 - 💬 Ask me about **MERN,JavaScript,Web Designing** - 📫 How to reach me
-**somilvaishya78@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1qjQSad4Z-xxAkMLYCHM_3bdNJ1pPtJm9/view?usp=sharing](https://drive.google.com/file/d/1qjQSad4Z-xxAkMLYCHM_3bdNJ1pPtJm9/view?usp=sharing)
+**somilvaishya78@gmail.com** 
 - ⚡ Fun fact **Travel where you want...!**
 
 <h3 align="left">Connect with me:</h3>
