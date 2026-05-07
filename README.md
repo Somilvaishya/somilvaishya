@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Software Engineer
+# 🚀 Full-Stack Software Engineer (Frappe, ERPNext)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=somilvaishya&label=PROFILE+VIEWS&color=24292e&style=for-the-badge" alt="somilvaishya" />
