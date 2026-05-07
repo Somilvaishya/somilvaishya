@@ -11,7 +11,7 @@
 
 - 👨‍💻 **Portfolio:** [Explore My Work](https://portfolio-website-delta-three-90.vercel.app/)
 - 💬 **Ask me about:** MERN Stack, JavaScript Architecture, & UI/UX Engineering
-- 📫 **Get in touch:** [somilvaishya78@gmail.com](mailto:somilvaishya75@gmail.com)
+- 📫 **Get in touch:** [somilvaishya75@gmail.com](mailto:somilvaishya75@gmail.com)
 - ⚡ **Fun Fact:** "Travel where you want...!" 🌍
 
 ---
