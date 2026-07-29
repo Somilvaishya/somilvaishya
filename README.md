@@ -72,39 +72,6 @@ Full-stack engineer based in India, working across **ERPNext / Frappe** implemen
   <img src="https://raw.githubusercontent.com/somilvaishya/somilvaishya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<details>
-<summary>⚙️ Setup (one-time — needed to activate the animation above)</summary>
-
-Add this as `.github/workflows/snake.yml` in your `somilvaishya/somilvaishya` repo:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: somilvaishya
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
