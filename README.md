@@ -75,16 +75,6 @@ Full-stack engineer based in India, working across **ERPNext / Frappe** implemen
 
 ---
 
-### 🚀 Featured Projects
-
-Pin your top repos from your [GitHub profile settings](https://github.com/somilvaishya?tab=repositories) — once pinned, add a card here for each:
-
-```md
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=somilvaishya&repo=REPO_NAME&theme=react&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9)](https://github.com/somilvaishya/REPO_NAME)
-```
-
----
-
 <div align="center">
 
 ### 🤝 Connect
